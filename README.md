@@ -43,7 +43,7 @@ Here are some ideas to get to know me:
 <img src="https://user-images.githubusercontent.com/76790341/190482427-414de214-10ea-4b75-9949-9d2e51c50b09.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/190482899-5367a114-82bb-48e4-987e-d371df18d545.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
