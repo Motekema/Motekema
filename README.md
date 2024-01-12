@@ -9,3 +9,18 @@ Here are some ideas to get to know me:
 - :speech_bubble: Ask me about Coding
 - :mailbox: How to reach me: motekema@gmail.com
 -->
+![C](https://img.shields.io/badge/Language-C-blue)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Python](https://img.shields.io/badge/Language-Python-green)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
+![API](https://img.shields.io/badge/API-RESTful-orange)
+
+
+## 🚀 GitHub Stats
+
+[![Motekema's GitHub stats](https://github-readme-stats.vercel.app/api?username=motekema&show_icons=true&theme=radical)](https://github.com/motekema/motekema)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/motekema/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/motekema)
