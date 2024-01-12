@@ -22,5 +22,5 @@ Here are some ideas to get to know me:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/motekema/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/motekema-mahlanya-58ab22230/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/motekema)
