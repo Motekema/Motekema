@@ -1,6 +1,6 @@
 # Motekema Mahlanya
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;web+and+App+developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;Web+and+App+developer)](https://git.io/typing-svg)
 I'm interested in Web development, DevOps, Software Engineering and Artificial Intelligence<br>
 
 
