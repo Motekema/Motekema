@@ -11,7 +11,6 @@ Here are some ideas to get to know me:
 - :dancers: I’m looking to collaborate on Node.js, API, C programming, JavaScript, and Python
 - :speech_bubble: Ask me about Coding
 - :mailbox: How to reach me: motekema@gmail.com
-- :contacts: 071 209 4678
 -->
 ![C](https://img.shields.io/badge/Language-C-blue)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
