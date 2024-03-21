@@ -57,3 +57,4 @@ Here are some ideas to get to know me:
 </p>
                                                                                                                                                     
 ---
+![](https://raw.githubusercontent.com/ardakazanci/ardakazanci/master/profile-summary-card-output/aura/2-most-commit-language.svg)
