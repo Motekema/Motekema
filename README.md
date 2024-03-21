@@ -20,9 +20,10 @@ Here are some ideas to get to know me:
 ![API](https://img.shields.io/badge/API-RESTful-orange)
 
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Status
 
 [![Motekema's GitHub stats](https://github-readme-stats.vercel.app/api?username=motekema&show_icons=true&theme=radical)](https://github.com/motekema/motekema)
+[![Top Language](https://img.shields.io/github/languages/top/Motekema/REPOSITORY)](https://github.com/Motekema/REPOSITORY)
 
 ## 🌐 Connect with Me
 
