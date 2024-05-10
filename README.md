@@ -65,10 +65,8 @@ Here are some ideas to get to know me:
                                                                                                                                                     
 ---
 
-### OS: ❤️ (linux one love)
+### OS: (I love Linux and Windows equally! ❤️)
 
 | Linux | Ubuntu | Windows |
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
-
-I love Linux and Windows equally! ❤️
