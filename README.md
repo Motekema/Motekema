@@ -28,7 +28,6 @@ Here are some ideas to get to know me:
 </p>
 
 
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/motekema-mahlanya-58ab22230/)
