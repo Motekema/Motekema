@@ -23,9 +23,10 @@ Here are some ideas to get to know me:
 ## 🚀 GitHub Status
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Motekema&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motekema&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Motekema&show_icons=true&theme=algolia">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motekema&size_weight=0.15&count_weight=0.5&layout=compact&theme=algolia">
 </p>
+
 
 
 ## 🌐 Connect with Me
