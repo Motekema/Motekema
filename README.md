@@ -15,16 +15,6 @@ I'm Motekema, and I'm passionate about Web Development, DevOps, Software Enginee
 
 ---
 
-#### GitHub Stats
-
-![Motekema's GitHub stats](https://github-readme-stats.vercel.app/api?username=motekema&show_icons=true&theme=radical)
-
-#### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motekema&layout=compact&theme=radical)
-  
--->
-
 ## 🌐 Connect with Me
 
 ![C](https://img.shields.io/badge/Language-C-blue)
