@@ -27,9 +27,19 @@ I'm Motekema, and I'm passionate about Web Development, DevOps, Software Enginee
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/motekema-mahlanya-58ab22230/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/motekema)
+![C](https://img.shields.io/badge/Language-C-blue)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Python](https://img.shields.io/badge/Language-Python-green)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
+![API](https://img.shields.io/badge/API-RESTful-orange)
 
+
+## 🚀 GitHub Status
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Motekema&show_icons=true&theme=algolia">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motekema&size_weight=0.15&count_weight=0.5&layout=compact&theme=algolia">
+</p>
 
 ### My Stack
 
