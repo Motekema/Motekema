@@ -13,7 +13,6 @@ I'm Motekema, and I'm passionate about Web Development, DevOps, Software Enginee
 
 📫 You can reach me at [motekema@gmail.com](mailto:motekema@gmail.com).
 
----
 
 ## 🌐 Connect with Me
 
