@@ -1,16 +1,27 @@
 # Motekema Mahlanya
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=30&width=502&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;Web+and+App+developer)](https://git.io/typing-svg)
-I'm interested in Web development, DevOps, Software Engineering and Artificial Intelligence<br>
+I'm Motekema, and I'm passionate about Web Development, DevOps, Software Engineering, and Artificial Intelligence.
 
+🔭 I’m currently working on APIs.
 
+🌱 I’m currently learning Software Engineering at ALX and have a Level 4 qualification in Information Technology and Computer Science.
 
-Here are some ideas to get to know me:
-- :telescope: I’m currently working on API
-- :seedling: I’m currently learning Software engineering at Alx and have level 4 in Information Technology and computer science.
-- :dancers: I’m looking to collaborate on Node.js, API, C programming, JavaScript, and Python
-- :speech_bubble: Ask me about Coding
-- :mailbox: How to reach me: motekema@gmail.com
+💃 I’m looking to collaborate on projects involving Node.js, APIs, C programming, JavaScript, and Python.
+
+💬 Ask me about anything related to coding!
+
+📫 You can reach me at [motekema@gmail.com](mailto:motekema@gmail.com).
+
+---
+
+#### GitHub Stats
+
+![Motekema's GitHub stats](https://github-readme-stats.vercel.app/api?username=motekema&show_icons=true&theme=radical)
+
+#### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motekema&layout=compact&theme=radical)
   
 -->
 ![C](https://img.shields.io/badge/Language-C-blue)
