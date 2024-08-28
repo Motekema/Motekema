@@ -27,12 +27,15 @@ I'm Motekema, and I'm passionate about Web Development, DevOps, Software Enginee
 ![API](https://img.shields.io/badge/API-RESTful-orange)
 
 
-## 🚀 GitHub Status
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Motekema&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Motekema&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Motekema&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Motekema&show_icons=true&theme=algolia">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motekema&size_weight=0.15&count_weight=0.5&layout=compact&theme=algolia">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Motekema&icon=2&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### My Stack
 
