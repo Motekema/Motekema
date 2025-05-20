@@ -1,4 +1,4 @@
-# Motekema Mahlanya
+# Teki Kgoale Mahlanya
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=30&width=502&lines=+Software+Engineer;Full-Stack+Web+Developer!;Web+and+App+developer)](https://git.io/typing-svg)
 I'm Motekema, and I'm passionate about Web Development, DevOps, Software Engineering, and Artificial Intelligence.
