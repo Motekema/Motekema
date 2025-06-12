@@ -63,7 +63,7 @@ I'm Motekema, and I'm passionate about Web Development, DevOps, Software Enginee
  <img src="https://img.icons8.com/color/452/mongodb.png" height="40" style="vertical-align:top; margin:4px" alt="MongoDB Logo">
 <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" alt="Supabase" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/neondatabase/docs/main/public/favicon.ico" alt="Neon" height="40" style="vertical-align:top; margin:4px" />
+![Neon](https://img.shields.io/badge/Neon_Postgres-008AFF?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 </p>
