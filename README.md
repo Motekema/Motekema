@@ -61,7 +61,7 @@ I'm Motekema, and I'm passionate about Web Development, DevOps, Software Enginee
 <img src="https://user-images.githubusercontent.com/76790341/187142293-2280c369-2a56-4dcd-8547-df421d9421fe.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.icons8.com/color/452/mongodb.png" height="40" style="vertical-align:top; margin:4px" alt="MongoDB Logo">
-<img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--dark.svg" alt="Supabase" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" alt="Supabase" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
  <img src="https://avatars.githubusercontent.com/u/101346539?s=200&v=4" alt="Neon" height="40" style="vertical-align:top; margin:4px">
 
