@@ -3,15 +3,17 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=30&width=502&lines=+Software+Engineer;Full-Stack+Web+Developer!;Web+and+App+developer)](https://git.io/typing-svg)
 I'm Motekema, and I'm passionate about Web Development, DevOps, Software Engineering, and Artificial Intelligence.
 
-🔭 I’m currently working on APIs.
+🔭 I’m currently working on API-driven backend projects, including a Loan Management System.
 
-🌱 I’m currently learning Software Engineering at ALX and have a Level 4 qualification in Information Technology and Computer Science.
+🌱 I’m studying Software Engineering at ALX Africa and hold a Level 4 qualification in Information Technology & Computer Science.
 
-💃 I’m looking to collaborate on projects involving Node.js, APIs, C programming, JavaScript, and Python.
+🤝 I’m open to collaborating on projects involving Node.js, React, APIs, JavaScript, Python, and C programming.
 
-💬 Ask me about anything related to coding!
+💬 Ask me about backend development, database design, or building scalable systems.
 
-📫 You can reach me at [motekema@gmail.com](mailto:motekema@gmail.com).
+📫 Reach me at motekema@gmail.com
+
+🌐 Portfolio: https://tk-mahlanya-portfolio.vercel.app/
 
 
 ## 🌐 Connect with Me
